@@ -13,7 +13,7 @@ How to Run:
  
  -Run the following command:
  
-   java -jar ChatServer.jar
+    java -jar ChatServer.jar
 
   -If you still get an error, run without the JAR:
   
