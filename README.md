@@ -27,7 +27,7 @@ How to Run:
  
  -Run the following command:
  
-   java -jar ChatClient.jar
+    java -jar ChatClient.jar
    
  -You will see "Connected to server." The client can now send and receive messages.
 
