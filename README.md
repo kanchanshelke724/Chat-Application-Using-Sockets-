@@ -14,7 +14,11 @@ How to Run:
  -Run the following command:
  
    java -jar ChatServer.jar
-   
+
+  -If you still get an error, run without the JAR:
+  
+    java ChatServerSide
+ 
  -This will start the server, waiting for client connections.
 
 2.Start the Clients:
